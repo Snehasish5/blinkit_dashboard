@@ -10,9 +10,11 @@ The project is suitable for data analytics portfolios, academic submissions, and
 
 **🗂️ Project Files**
 
-├── Dataset.xlsx        # Source data used for analysis
-├── Dashboard.pbix      # Power BI dashboard file
-└── README.md           # Project documentation
+├── Dataset.xlsx         # Source data used for analysis
+|
+├── Dashboard.pbix       # Power BI dashboard file
+|
+└── README.md            # Project documentation
 
 **📁 Dataset**
 
